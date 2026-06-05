@@ -14,4 +14,8 @@ Phù hợp cho đa dạng phần cứng từ các công ty như HP, Dell, Lenovo
 Để hệ thống ra đời, không thể không nhắc đến nền tảng [OSDCloud](https://www.osdeploy.com) cũng như sự hỗ trợ không ngừng nghỉ của bé [Gemini](https://gemini.google.com) để tối ưu logic và code xử lý automation liên quan ❤️❤️❤️
 
 ![Bootscreen](Resources/boot-screen.webp "Boot screen")
-![Desktop](Resources/os-display.webp "Desktop")
+
+
+Demo video
+
+<https://github.com/tructransecure/OSDCloud/blob/485de398f65130b4a70cf6b7c36c4b0a0f6f2295/Resources/video.mp4>
