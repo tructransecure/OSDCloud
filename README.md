@@ -18,4 +18,4 @@ Phù hợp cho đa dạng phần cứng từ các công ty như HP, Dell, Lenovo
 
 Demo video
 
-<https://github.com/tructransecure/OSDCloud/blob/46667048cecb8766063a20b7c1c26a91b8da4a16/Resources/video.mp4>
+(https://github.com/tructransecure/OSDCloud/raw/8021f4fbbf531b4bd3b29297d56e319b20ed0189/Resources/video.mp4)
