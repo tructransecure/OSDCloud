@@ -13,6 +13,18 @@ Phù hợp cho đa dạng phần cứng từ các công ty như HP, Dell, Lenovo
 
 Để hệ thống ra đời, không thể không nhắc đến nền tảng [OSDCloud](https://www.osdeploy.com) cũng như sự hỗ trợ không ngừng nghỉ của bé [Gemini](https://gemini.google.com) để tối ưu logic và code xử lý automation liên quan ❤️❤️❤️
 
+
+
+****🔰 Test trong môi trường business 🔰****
+
+
+
+✅ Cài đặt OS, đặt password local admin, rename computer, join active directory domain, áp policy (OK)
+
+✅ Cài đặt OS, đặt password local admin, rename computer, join EntraID, bật Bitlocker lưu trữ recovery key online (OK)
+
+🧱 Ở các công ty có firewall, việc cài đặt có thể gặp chút trục trặc vì ở giai đoạn Post-setup, hệ thống cần tải các ứng dụng từ (MS/Windows Store, Github). Cần thiết lập tường lửa cho phép kết nối đến các dịch vụ này (**Application Control**) (OK)
+
 ![Bootscreen](Resources/boot-screen.webp "Boot screen")
 
 
