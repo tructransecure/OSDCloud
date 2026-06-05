@@ -5,8 +5,8 @@ Một hành trình dự án nho nhỏ từ [CoreSystem](https://coresystem.vn) v
 - Luôn luôn cài nguồn sạch từ Microsoft và update mới nhất
 - Toàn bộ thời gian cài đặt chỉ gói gọn **trong 30-45 phút** tùy tốc độ mạng Internet 
 - Tùy biến **automation chuẩn doanh nghiệp** thông qua việc xóa các ứng dụng bloatware tặng kèm, cài đặt bổ sung ứng dụng phù hợp môi trường văn phòng
-- Đáp ứng tối đa nền tảng phần cứng bảo mật hiện đại với việc áp dụng firmware UEFI kết hợp SecureBoot và chip bảo mật TPM2
-- Ngoài tính năng chủ đạo là cài đặt Windows thì hệ thống boot cũng hỗ trợ các công cụ bổ sung như kiểm tra phần cứng máy tính, sao lưu ổ đĩa giúp việc cài đặt an toàn, yên tâm hơn
+- Đáp ứng tối đa nền tảng phần cứng bảo mật hiện đại khi các hãng thiết bị siết chặt áp dụng firmware UEFI kết hợp SecureBoot và chip bảo mật TPM2
+- Ngoài tính năng chủ đạo là cài đặt Windows thì hệ thống boot cũng hỗ trợ các công cụ bổ sung như kiểm tra phần cứng máy tính, quản lý phân vùng và sao lưu ổ đĩa giúp việc cài đặt an toàn, yên tâm hơn
 - 100% miễn phí và mã mở, hệ thống không dùng bất kỳ phần mềm thương mại nào có thể gây ảnh hưởng trực tiếp hoặc gián tiếp tới doanh nghiệp
 
 Phù hợp cho đa dạng phần cứng từ các công ty như HP, Dell, Lenovo...
@@ -16,6 +16,13 @@ Phù hợp cho đa dạng phần cứng từ các công ty như HP, Dell, Lenovo
 ![Bootscreen](Resources/boot-screen.webp "Boot screen")
 
 
-Demo video
+Demo video, toàn bộ quá trình cài đặt chỉ khoảng 25 phút. Thực sự ấn tượng phải không?
 
-(https://github.com/tructransecure/OSDCloud/raw/8021f4fbbf531b4bd3b29297d56e319b20ed0189/Resources/video.mp4)
+
+https://github.com/user-attachments/assets/000f333a-9fd0-4fff-a8f1-750a3c13c7d2
+
+
+
+
+
+
